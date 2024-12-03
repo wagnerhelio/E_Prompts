@@ -5,9 +5,12 @@ https://ollama.com/search
 ollama run llama3.2
 ollama run llama3.2-vision
 
-termina:
+https://www.python.org/downloads/
+Pyton 3.13.0
+
+terminal:
 ollama --version
-python  (obtem a versão do phyton instalado previamente)
+python  
 
 pip install uv (isntalador que criara as VM's e fara a magica acontecer)
 
